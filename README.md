@@ -9,6 +9,7 @@ Demonstrate - Search - Predict Model (DSP) by Stanford Univ.
 - paper:
   - DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines (https://arxiv.org/abs/2310.03714)
   - RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture (https://arxiv.org/abs/2401.08406)
+  - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (https://arxiv.org/abs/2005.11401)
 - github: https://github.com/stanfordnlp/dspy
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck
