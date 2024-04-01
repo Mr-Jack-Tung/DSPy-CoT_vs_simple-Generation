@@ -6,6 +6,9 @@ DSPy: The framework for programming—not prompting—foundation models.</br>
 Demonstrate - Search - Predict Model (DSP) by Stanford Univ. 
 
 - website: https://dspy-docs.vercel.app
+- paper:
+- - DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines (https://arxiv.org/abs/2310.03714)
+- - RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture (https://arxiv.org/abs/2401.08406)
 - github: https://github.com/stanfordnlp/dspy
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck
