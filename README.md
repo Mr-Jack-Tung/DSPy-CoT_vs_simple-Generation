@@ -2,7 +2,9 @@
 
 
 ### What DSPy is? Why DSPy?
-DSPy: The framework for programming—not prompting—foundation models
+DSPy: The framework for programming—not prompting—foundation models\n
+Demonstrate - Search - Predict Model (DSP) by Stanford Univ. 
+
 - website: https://dspy-docs.vercel.app
 - github: https://github.com/stanfordnlp/dspy
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
