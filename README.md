@@ -6,6 +6,7 @@ DSPy: The framework for programming—not prompting—foundation models
 - website: https://dspy-docs.vercel.app
 - github: https://github.com/stanfordnlp/dspy
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
+- DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck
 
 #### Question:
 You are talking with three friends in the class room then go to library. How many people are there in the class room?
