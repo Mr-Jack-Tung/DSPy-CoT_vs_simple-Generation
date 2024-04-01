@@ -1,7 +1,7 @@
 # DSPy-CoT_vs_simple-Generation
 
 
-### What DSPy is? Why's DSPy?
+### What DSPy is? Why DSPy?
 DSPy: The framework for programming—not prompting—foundation models
 - website: https://dspy-docs.vercel.app
 - github: https://github.com/stanfordnlp/dspy
