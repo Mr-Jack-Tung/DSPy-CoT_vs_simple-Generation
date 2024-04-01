@@ -1,4 +1,7 @@
-
+# -*- coding: utf-8 -*-
+# Author: Mr.Jack _ www.BICweb.vn
+# Start: 01Apr2024 - 11PM
+# End: 01Apr2024 - 12PM
 
 question='You are talking with three friends in the class room then go to library. How many people are there in the class room?'
 
