@@ -1,6 +1,7 @@
 
 # DSPy Example
 # 02 Apr 2024
+# Author: Mr.Jack _ www.BICweb.vn
 
 import dspy
 from dspy.evaluate import Evaluate
