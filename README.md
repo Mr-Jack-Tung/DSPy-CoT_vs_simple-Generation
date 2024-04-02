@@ -1,7 +1,7 @@
 # DSPy-CoT_vs_simple-Generation
 
 
-### What DSPy is? Why DSPy?
+### What's DSPy? Why's DSPy?
 DSPy: The framework for programming—not prompting—foundation models.</br>
 Demonstrate - Search - Predict Model (DSP) by Stanford Univ. 
 
