@@ -23,4 +23,5 @@ I'm an artificial intelligence and don't have the ability to talk or be in a cla
 #### DSPy Chain-of-Thought response:
 Answer: There are three people in the classroom.
 
-#### Update 04 Apr 2024: Series DSPy Examples _ một loạt các bài tập đơn giản về DSPy bạn nhé ^^
+#### Update 04 Apr 2024: Series DSPy Examples
+Mình đã soạn ra một loạt các bài tập đơn giản để giúp bạn hiểu rõ hơn về DSPy nhé ^^
