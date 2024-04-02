@@ -22,5 +22,5 @@ Demonstrate - Search - Predict Model (DSP) by Stanford Univ.
 - ##### DSPy Chain-of-Thought response:</br>
    Answer: There are three people in the classroom.
 
-#### Update 04 Apr 2024: Series DSPy Examples
+#### Update 02 Apr 2024: Series DSPy Examples
 Mình đã soạn ra một loạt các bài tập đơn giản để giúp bạn hiểu rõ hơn về DSPy nhé ^^
