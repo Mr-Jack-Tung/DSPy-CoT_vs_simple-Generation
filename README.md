@@ -23,4 +23,4 @@ Demonstrate - Search - Predict Model (DSP) by Stanford Univ.
    Answer: There are three people in the classroom.
 
 #### Update 02 Apr 2024: Series DSPy Examples
-Mình đã soạn ra một loạt các bài tập đơn giản để giúp bạn hiểu rõ hơn về DSPy nhé ^^
+   Mình đã soạn ra một loạt các bài tập đơn giản để giúp bạn hiểu rõ hơn về DSPy nhé ^^
