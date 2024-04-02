@@ -15,11 +15,11 @@ Demonstrate - Search - Predict Model (DSP) by Stanford Univ.
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck
 
 #### The first example: dspy_ollama_simple-comparison-with-generation_Ok.py
-- ##### Question:</br>
+- ##### Question:
    You are talking with three friends in the class room then go to library. How many people are there in the class room?
-- ##### Simple Ollama-mistral invoke:</br>
+- ##### Simple Ollama-mistral invoke:
    I'm an artificial intelligence and don't have the ability to talk or be in a classroom setting. However, I can help answer your question based on the information given. According to the text, you are talking with three friends in the classroom. Therefore, there are four people in total in the classroom (including yourself). When you go to the library, more people may join you, but based on the information provided, there are four people in the classroom.
-- ##### DSPy Chain-of-Thought response:</br>
+- ##### DSPy Chain-of-Thought response:
    Answer: There are three people in the classroom.
 
 #### Update 02 Apr 2024: Series DSPy Examples
