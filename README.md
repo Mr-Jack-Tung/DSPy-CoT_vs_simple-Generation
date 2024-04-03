@@ -14,7 +14,7 @@ Demonstrate - Search - Predict Model (DSP) by Stanford Univ.
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck
 
-**Update 03Apr2024** ~> Mới đầu hỏi ChatGPT về DSPy framework em nó còn "ngu ngơ", sau khi nhờ em nó sửa xong đoạn code thì em nó trả lời "như chiên gia" ấy ^^
+**Update 03Apr2024** ~> Mới đầu hỏi ChatGPT về DSPy framework em nó còn "ngu ngơ", sau khi nhờ em nó sửa xong đoạn code 'DSPy_example_04' thì em nó trả lời "như chiên gia" ấy ^^
 
 #### What's DSPy framework?
 (ChatGPT 3.5)</br>
