@@ -3,7 +3,7 @@
 
 ### What's DSPy? Why's DSPy?
 DSPy: The framework for programming—not prompting—foundation models.</br>
-Demonstrate - Search - Predict Model (DSP) by Stanford Univ. 
+DSPy, short for "Declarative Self-improving Language Programs", stands at the forefront of merging Large Language models (LLMs) and Retrieval Models (RMs) to tackle complex tasks. 
 
 - website: https://dspy-docs.vercel.app
 - paper:
