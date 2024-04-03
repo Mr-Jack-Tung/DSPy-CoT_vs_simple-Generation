@@ -13,7 +13,7 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy, s
   - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (https://arxiv.org/abs/2005.11401)
 - github: https://github.com/stanfordnlp/dspy
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
-- DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck
+- DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck ; https://www.youtube.com/watch?v=41EfOY0Ldkc
 
 **Update 03Apr2024** ~> Mới đầu hỏi ChatGPT về DSPy framework em nó còn "ngu ngơ", sau khi nhờ em nó sửa xong đoạn code 'DSPy_example_04' thì em nó trả lời "như chiên gia" ấy ^^
 
