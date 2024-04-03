@@ -14,6 +14,8 @@ Demonstrate - Search - Predict Model (DSP) by Stanford Univ.
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck
 
+**Update 03Apr2024** ~> Mới đầu hỏi ChatGPT về DSPy framework em nó còn "ngu ngơ", sau khi nhờ em nó sửa xong đoạn code thì em nó trả lời "như chiên gia" ấy ^^
+
 #### What's DSPy framework?
 (ChatGPT 3.5)</br>
 DSPy is a framework for algorithmically optimizing language model (LM) prompts and weights, especially when LMs are used one or more times within a pipeline. It helps in building complex systems with LMs more systematically and powerfully.</br>
