@@ -8,6 +8,8 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy, s
 - paper:
   - DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines (https://arxiv.org/abs/2310.03714)
   - RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture (https://arxiv.org/abs/2401.08406)
+  - ReAct: Synergizing Reasoning and Acting in Language Models (https://arxiv.org/abs/2210.03629)
+  - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (https://arxiv.org/abs/2201.11903)
   - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (https://arxiv.org/abs/2005.11401)
 - github: https://github.com/stanfordnlp/dspy
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
