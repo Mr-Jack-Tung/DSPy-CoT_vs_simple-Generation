@@ -44,3 +44,7 @@ Overall, DSPy aims to provide a systematic and efficient approach to building sy
 
 #### Update 02 Apr 2024: Series DSPy Examples
    Mình đã soạn ra một loạt các bài tập đơn giản để giúp bạn hiểu rõ hơn về DSPy nhé ^^
+   - DSPy_example_01.py
+   - DSPy_example_02.py
+   - DSPy_example_03.py
+   - DSPy_example_04.py
