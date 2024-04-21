@@ -18,7 +18,7 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy, s
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck ; https://www.youtube.com/watch?v=41EfOY0Ldkc
 
-**Inline DSPy Signatures**
+**Inline DSPy Signatures** (https://dspy-docs.vercel.app/docs/building-blocks/signatures)
 - Signatures can be defined as a short string, with argument names that define semantic roles for inputs/outputs.
   - Question Answering: "question -> answer"
   - Sentiment Classification: "sentence -> sentiment"
