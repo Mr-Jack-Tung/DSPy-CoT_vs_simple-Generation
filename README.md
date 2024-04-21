@@ -19,7 +19,7 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy, s
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck ; https://www.youtube.com/watch?v=41EfOY0Ldkc
 
 **Update 21Apr2024** 
--  ~> Khi xây dựng Chatbot chúng ta sẽ gặp phải thách thức hiển nhiên đó là giữ cho Chatbot nhớ và hiểu được luồng câu chuyện đang diễn ra, một việc tuy rất đơn giản để yêu cầu nhưng cũng không hề đơn giản để làm. Trong ví dụ này mình đã áp dụng thêm một số function như 'document summary' hoặc 'rewrite question' để tăng cường thêm 'sức mạnh' cho em nó ^^
+- 11.30PM : DSPy_exam_ChainOfThought_with_Dialogue_Tracking_System.py ~> Khi xây dựng Chatbot chúng ta sẽ gặp phải thách thức hiển nhiên đó là giữ cho Chatbot nhớ và hiểu được luồng câu chuyện đang diễn ra, một việc tuy rất đơn giản để yêu cầu nhưng cũng không hề đơn giản để làm. Trong ví dụ này mình đã áp dụng thêm một số function như 'document summary' hoặc 'rewrite question' để tăng cường thêm 'sức mạnh' cho em nó ^^
 - DSPy_exam_Predict_with_Template.py ~> Một trong những yêu cầu rất đơn giản của Agent mà các Project lớn thường ít quan tâm là yêu cầu ChatAgent phải trả lời theo một kịch bản (hoặc template, định hướng) cho trước, chứ không trả lời tùy tiện, mông lung. Và đây là một ví dụ để giải quyết nhiệm vụ này ^^
 
 **Update 20Apr2024** DSPy_exam_simple_PoemWriter.py ~> Một ví dụ rất rất đơn giản về cách sử dụng 'dspy.Signature' kết hợp với 'dspy.Predict' ^^
