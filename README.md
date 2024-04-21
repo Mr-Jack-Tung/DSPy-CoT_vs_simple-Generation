@@ -20,12 +20,12 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy, s
 
 **Inline DSPy Signatures**
 - Signatures can be defined as a short string, with argument names that define semantic roles for inputs/outputs.
-- Question Answering: "question -> answer"
-- Sentiment Classification: "sentence -> sentiment"
-- Summarization: "document -> summary"
+ - Question Answering: "question -> answer"
+ - Sentiment Classification: "sentence -> sentiment"
+ - Summarization: "document -> summary"
 - Your signatures can also have multiple input/output fields.
-- Retrieval-Augmented Question Answering: "context, question -> answer"
-- Multiple-Choice Question Answering with Reasoning: "question, choices -> reasoning, selection"
+ - Retrieval-Augmented Question Answering: "context, question -> answer"
+ - Multiple-Choice Question Answering with Reasoning: "question, choices -> reasoning, selection"
 
 Tip: For fields, any valid variable names work! Field names should be semantically meaningful, but start simple and don't prematurely optimize keywords! Leave that kind of hacking to the DSPy compiler. For example, for summarization, it's probably fine to say "document -> summary", "text -> gist", or "long_context -> tldr".
 
