@@ -34,7 +34,7 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy, s
 
 **Update 20Apr2024** DSPy_exam_simple_PoemWriter.py ~> Một ví dụ rất rất đơn giản về cách sử dụng 'dspy.Signature' kết hợp với 'dspy.Predict' ^^
 
-**Update 03Apr2024** ~> Mới đầu hỏi ChatGPT về DSPy framework em nó còn "ngu ngơ", sau khi nhờ em nó sửa xong đoạn code 'DSPy_example_04' thì em nó trả lời "như chiên gia" ấy ^^
+**Update 03Apr2024** DSPy_example_04_(rewrite_by_ChatGPT).py ~> Mới đầu hỏi ChatGPT về DSPy framework em nó còn "ngu ngơ", sau khi nhờ em nó sửa xong đoạn code 'DSPy_example_04' thì em nó trả lời "như chiên gia" ấy ^^
 
 #### What's DSPy framework?
 (ChatGPT 3.5)</br>
