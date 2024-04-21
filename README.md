@@ -18,6 +18,17 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy, s
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck ; https://www.youtube.com/watch?v=41EfOY0Ldkc
 
+**Inline DSPy Signatures**
+- Signatures can be defined as a short string, with argument names that define semantic roles for inputs/outputs.
+- Question Answering: "question -> answer"
+- Sentiment Classification: "sentence -> sentiment"
+- Summarization: "document -> summary"
+- Your signatures can also have multiple input/output fields.
+- Retrieval-Augmented Question Answering: "context, question -> answer"
+- Multiple-Choice Question Answering with Reasoning: "question, choices -> reasoning, selection"
+
+Tip: For fields, any valid variable names work! Field names should be semantically meaningful, but start simple and don't prematurely optimize keywords! Leave that kind of hacking to the DSPy compiler. For example, for summarization, it's probably fine to say "document -> summary", "text -> gist", or "long_context -> tldr".
+
 **Update 21Apr2024** 
 - 11.30PM : DSPy_exam_ChainOfThought_with_Dialogue_Tracking_System.py ~> Khi xây dựng Chatbot chúng ta sẽ gặp phải thách thức hiển nhiên đó là giữ cho Chatbot nhớ và hiểu được luồng câu chuyện đang diễn ra, một việc tuy rất đơn giản để yêu cầu nhưng cũng không hề đơn giản để làm. Trong ví dụ này mình đã áp dụng thêm một số function như 'document summary' hoặc 'rewrite question' để tăng cường thêm 'sức mạnh' cho em nó ^^
 - 08AM : DSPy_exam_Predict_with_Template.py ~> Một trong những yêu cầu rất đơn giản của Agent mà các Project lớn thường ít quan tâm là yêu cầu ChatAgent phải trả lời theo một kịch bản (hoặc template, định hướng) cho trước, chứ không trả lời tùy tiện, mông lung. Và đây là một ví dụ để giải quyết nhiệm vụ này ^^
