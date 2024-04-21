@@ -18,6 +18,8 @@ DSPy: The framework for programming—not prompting—foundation models. DSPy, s
 - langchain: https://python.langchain.com/docs/integrations/providers/dspy
 - DSPy explained: https://www.youtube.com/watch?v=ycfnKPxBMck ; https://www.youtube.com/watch?v=41EfOY0Ldkc
 
+**Update 21Apr2024** DSPy_exam_Predict_with_Template.py ~> Một trong những yêu cầu rất đơn giản của Agent mà các Project lớn thường ít quan tâm là yêu cầu ChatAgent phải trả lời theo một kịch bản (hoặc template, định hướng) cho trước, chứ không trả lời tùy tiện, mông lung. Và đây là một ví dụ để giải quyết nhiệm vụ này ^^
+
 **Update 20Apr2024** DSPy_exam_simple_PoemWriter.py ~> Một ví dụ rất rất đơn giản về cách sử dụng 'dspy.Signature' kết hợp với 'dspy.Predict' ^^
 
 **Update 03Apr2024** ~> Mới đầu hỏi ChatGPT về DSPy framework em nó còn "ngu ngơ", sau khi nhờ em nó sửa xong đoạn code 'DSPy_example_04' thì em nó trả lời "như chiên gia" ấy ^^
