@@ -1,5 +1,6 @@
 # DSPy-CoT_vs_simple-Generation
 
+If you like what I do, give me a star ^^ ~> ⭐
 
 ### What's DSPy? Why's DSPy?
 DSPy: The framework for programming—not prompting—foundation models. DSPy, short for "Declarative Self-improving Language Programs", stands at the forefront of merging Large Language models (LLMs) and Retrieval Models (RMs) to tackle complex tasks. 
